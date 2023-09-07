@@ -1,5 +1,9 @@
-def Coffee
+class CoffeeRecipes
   def initialize(type)
     @type = type
-  end
+end
+
+def Coffee
+  "caffeinate"
+  
 end
